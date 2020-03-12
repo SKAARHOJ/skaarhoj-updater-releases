@@ -1,34 +1,39 @@
 # skaarhoj-updater-releases
 All Releases of our firmware updater utility
 
-## Keyboard Shortcuts
-
+## Keyboard Shortcuts (from v0.9.22)
 
 **Check for Firmware updates**
 
 cmd+u
 
-(ctrl+u on other plattforms than macOS)
+(ctrl+u on windows)
 
 **Compile from Master**
 
-ctrl+command+shift+u
+shift+command+u
 
-(ctrl+shift+u on other plattforms than macOS)
+(shift+ctrl+u on windows)
 
 **Compile from branch**
 
-ctrl+command+shift+b
+shift+command+b
 
-(ctrl+shift+b on other plattforms than macOS)
+(ctrl+shift+b on windows)
 
 **Retrieve and copy the CID**
 
-ctrl+shift+c
+shift+command+c
 
-(You can substitute option for alt and command for meta key (on windows: windows key) on other plattforms than macOS)
+(shift+ctrl+c on windows)
 
-**Open Serial Monitor (from v0.9.22)**
+**Load Firmware from File**
+
+shift+command+f
+
+(shift+ctrl+f on windows)
+
+**Open Serial Monitor**
 
 shift+command+m
 
