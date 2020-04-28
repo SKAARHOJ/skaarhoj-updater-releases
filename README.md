@@ -1,6 +1,8 @@
 # skaarhoj-updater-releases
 All Releases of our firmware updater utility
 
+[CLICK HERE TO DOWNLOAD](https://github.com/SKAARHOJ/skaarhoj-updater-releases/releases)
+
 ## Keyboard Shortcuts (from v0.9.22)
 
 **Check for Firmware updates**
