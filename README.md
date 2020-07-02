@@ -1,4 +1,4 @@
-# skaarhoj-updater-releases
+# SkaarhojUpdater
 All Releases of our firmware updater utility
 
 [CLICK HERE TO DOWNLOAD](https://github.com/SKAARHOJ/skaarhoj-updater-releases/releases)
