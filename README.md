@@ -23,6 +23,12 @@ shift+command+b
 
 (ctrl+shift+b on windows)
 
+**Upload without recompile** (from version 1.0.2)
+
+shift+command+r
+
+(ctrl+shift+r on windows)
+
 **Retrieve and copy the CID**
 
 shift+command+c
