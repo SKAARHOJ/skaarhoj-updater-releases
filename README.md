@@ -46,3 +46,15 @@ shift+command+f
 shift+command+m
 
 (shift+ctrl+m on other plattforms than macOS)
+
+**Using new build system** (from version 1.0.4-pre)
+
+shift+command+option+c
+
+(shift+ctrl+alt+c on other plattforms than macOS)
+
+**Using new build system from master branch** (from version 1.0.4-pre)
+
+shift+command+option+m
+
+(shift+ctrl+alt+m on other plattforms than macOS)
