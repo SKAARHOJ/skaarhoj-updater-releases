@@ -58,3 +58,9 @@ shift+command+option+c
 shift+command+option+m
 
 (shift+ctrl+alt+m on other plattforms than macOS)
+
+**Using new build system from branch or version** (from version 1.0.4-pre4)
+
+shift+command+option+b
+
+(shift+ctrl+alt+b on other plattforms than macOS)
