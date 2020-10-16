@@ -64,3 +64,34 @@ shift+command+option+m
 shift+command+option+b
 
 (shift+ctrl+alt+b on other plattforms than macOS)
+
+## External URL triggers (from v1.0.5-pre)
+
+SkaarhojUpdater responds to special links opened in a system browser if installed correctly
+
+They start with `skupdater://`
+
+**Check for Firmware updates** (from v1.0.5-pre)
+
+`skupdater://update`
+
+**Compile from Master** (from v1.0.5-pre)
+
+`skupdater://update.master`
+
+**Retrieve and copy the CID** (from v1.0.5-pre)
+
+`skupdater://cid.copy`
+
+**Open online config** (from v1.0.5-pre)
+
+`skupdater://config.online`
+
+**Open local config** (from v1.0.5-pre)
+
+`skupdater://config.local`
+
+**Start local config without opening controller ip in new tab** (from v1.0.5-pre)
+
+`skupdater://config.local.notab`
+
