@@ -67,7 +67,7 @@ shift+command+option+b
 
 ## External URL triggers (from v1.0.5-pre)
 
-SkaarhojUpdater responds to special links opened in a system browser if installed correctly
+SkaarhojUpdater responds to special links opened in a system browser if installed correctly. This works on macOS, Windows and also Linux *
 
 They start with `skupdater://`
 
@@ -94,4 +94,8 @@ They start with `skupdater://`
 **Start local config without opening controller ip in new tab** (from v1.0.5-pre)
 
 `skupdater://config.local.notab`
+
+
+\* **Linux Note:** To make this work on Linux you need to install the AppImage using AppImageLauncher and properly integrate it into your Desktop environment
+See here: https://github.com/TheAssassin/AppImageLauncher
 
