@@ -3,6 +3,9 @@ All Releases of our firmware updater utility
 
 [CLICK HERE TO DOWNLOAD](https://github.com/SKAARHOJ/skaarhoj-updater-releases/releases)
 
+## IMPORTANT: For windows users the Discovery sections needs thath this package is also installed on your PC:
+https://support.apple.com/kb/dl999?locale=en_US
+
 ## Keyboard Shortcuts (from v0.9.22)
 
 **Check for Firmware updates**
